@@ -1,6 +1,8 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using KeisanKyou.ViewModels;
+using KeisanKyou.Views;
 
 namespace KeisanKyou
 {
@@ -9,8 +11,8 @@ namespace KeisanKyou
         public App()
         {
             InitializeComponent();
-
             MainPage = new MainPage();
+            var MainVM = new MainPageViewModel();
         }
 
         protected override void OnStart()

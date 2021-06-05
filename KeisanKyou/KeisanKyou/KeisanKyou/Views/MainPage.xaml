@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:ViewModels="clr-namespace:KeisanKyou.ViewModels"
+             x:Class="KeisanKyou.Views.MainPage">
+
+    <ContentPage.BindingContext>
+        <ViewModels:MainPageViewModel />
+    </ContentPage.BindingContext>
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="計算狂" HorizontalTextAlignment="Center" TextColor="White" FontSize="64"/>
+        </Frame>
+        
+        <Label Text="1分間で多くの計算問題を解け！" FontSize="16" Padding="30,0,30,0"/>
+        <Button Text="GAME START" Command="{Binding StartGameButtonClicked}"/>
+    </StackLayout>
+
+</ContentPage>
