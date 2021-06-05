@@ -5,6 +5,8 @@ public class MonoPackageManager_Resources {
 		"KeisanKyou.Android.dll",
 		"FormsViewGroup.dll",
 		"KeisanKyou.dll",
+		"Prism.dll",
+		"Prism.Forms.dll",
 		"Xamarin.AndroidX.Activity.dll",
 		"Xamarin.AndroidX.Annotation.dll",
 		"Xamarin.AndroidX.Annotation.Experimental.dll",

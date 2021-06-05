@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "hVgq/q3922+0RbqzIS3gP3DKTJfC/7vVQ+oouzR+mhn0UWJiqtnKoe7uOfivcHbIIMf3TX0RJjKRClZupGZeIA==",
+  "dgSpecHash": "vFYWatG6QS7Jgngo32DW/YXjn2fpyukdZojF2D/+NqFkUFqEtMj9GM0AX+SX//CXsVvoHqM0NUJffz5EtMGblQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\admin\\Documents\\MobileDev\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.Android\\KeisanKyou.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\prism.forms\\8.1.97\\prism.forms.8.1.97.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.activity\\1.1.0.5\\xamarin.androidx.activity.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.annotation\\1.1.0.8\\xamarin.androidx.annotation.1.1.0.8.nupkg.sha512",
