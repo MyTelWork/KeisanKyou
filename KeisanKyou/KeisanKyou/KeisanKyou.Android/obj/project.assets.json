@@ -2214,18 +2214,18 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
+    "C:\\Users\\paper\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\MobileDev\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.Android\\KeisanKyou.Android.csproj",
+      "projectUniqueName": "C:\\Users\\paper\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.Android\\KeisanKyou.Android.csproj",
       "projectName": "KeisanKyou.Android",
-      "projectPath": "C:\\Users\\admin\\Documents\\MobileDev\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.Android\\KeisanKyou.Android.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\MobileDev\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.Android\\obj\\",
+      "projectPath": "C:\\Users\\paper\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.Android\\KeisanKyou.Android.csproj",
+      "packagesPath": "C:\\Users\\paper\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\paper\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2233,7 +2233,7 @@
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\paper\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -2248,8 +2248,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\admin\\Documents\\MobileDev\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.csproj": {
-              "projectPath": "C:\\Users\\admin\\Documents\\MobileDev\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.csproj"
+            "C:\\Users\\paper\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.csproj": {
+              "projectPath": "C:\\Users\\paper\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.csproj"
             }
           }
         }

@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "bSn3XYCuVWzguIN/nHTZKoCT548dQ29rbFwKVcrIf9QNZ9EiEn6XOx/Y3CUZhoJMEVgymf3eAZVYj+J8KDpW3w==",
+  "dgSpecHash": "vzjR82Fhbf7m+U1Js+63WdtsvQrWJ1muQnhA8SnhE9x742mFHnLt476FwEyygrrD5UUvICXJKvBbnLVQiexvkA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\MobileDev\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.iOS\\KeisanKyou.iOS.csproj",
+  "projectFilePath": "C:\\Users\\paper\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.iOS\\KeisanKyou.iOS.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\admin\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\prism.forms\\8.1.97\\prism.forms.8.1.97.nupkg.sha512",
-    "C:\\Users\\admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\paper\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\paper\\.nuget\\packages\\prism.forms\\8.1.97\\prism.forms.8.1.97.nupkg.sha512",
+    "C:\\Users\\paper\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],

@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Documents\\MobileDev\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.csproj": {}
+    "C:\\Users\\paper\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Documents\\MobileDev\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.csproj": {
+    "C:\\Users\\paper\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Documents\\MobileDev\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.csproj",
+        "projectUniqueName": "C:\\Users\\paper\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.csproj",
         "projectName": "KeisanKyou",
-        "projectPath": "C:\\Users\\admin\\Documents\\MobileDev\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Documents\\MobileDev\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou\\obj\\",
+        "projectPath": "C:\\Users\\paper\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou.csproj",
+        "packagesPath": "C:\\Users\\paper\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\paper\\KeisanKyou\\KeisanKyou\\KeisanKyou\\KeisanKyou\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\paper\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"

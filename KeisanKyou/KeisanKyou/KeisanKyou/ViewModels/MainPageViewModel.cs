@@ -21,7 +21,7 @@ namespace KeisanKyou.ViewModels
 
         private void GameStart()
         {
-            Console.WriteLine("ゲームスタート！（ここでGameMain.xamlに遷移）");
+            Console.WriteLine("ゲームスタート！（ここでGamePage.xamlに遷移）");
         }
 
         // プロパティ値の変更を通知 関連
